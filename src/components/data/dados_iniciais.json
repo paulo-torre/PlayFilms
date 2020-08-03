@@ -1,0 +1,164 @@
+{
+  "categorias": [
+    { 
+      "titulo": "Em breve:",
+      "cor": "#171717",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Galinha Pintadinha: Cão Amigo",
+          "url": "https://youtu.be/QpsXyVOjSGM?list=RDEMKITLBk9680k7nmsKd8ITXQ"
+        }     
+      ]
+    },
+    {
+      "titulo": "Músicas infantis",
+      "cor": "#171717",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Dona Aranha",
+          "url": "https://www.youtube.com/watch?v=MuBgIfBR1kA&list=RDEMKITLBk9680k7nmsKd8ITXQ&index=4"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=VJQaBK70f24"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://youtu.be/orxxp-3gBiE"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://youtu.be/NGYh8Lv56oc"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://youtu.be/MgG13r2fVOw"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=XqZsoesa55w"
+        }
+      ]
+    },
+    {
+      "titulo": "Em breve:",
+      "cor": "#171717",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Em breve:",
+      "cor": "#171717",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Em breve:",
+      "cor": "#171717",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Em breve:",
+      "cor": "#171717",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
